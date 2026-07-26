@@ -1,0 +1,15 @@
+﻿node_modules/
+artifacts/
+cache/
+coverage/
+.env
+.env.*
+.vscode/
+STEP_2C_EVIDENCE_PACK_V3.1_R2/
+supplementary-governance-test-log-*.txt
+coverage-summary-*.txt
+execution-environment-*.txt
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db

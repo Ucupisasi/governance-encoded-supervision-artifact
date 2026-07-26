@@ -1,0 +1,25 @@
+{
+  "name": "vat-governance-testing",
+  "version": "1.0.0",
+  "description": "Bounded-core governance testing package for the journal-stage proof-of-concept.",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ignition": "^3.1.5",
+    "@nomicfoundation/hardhat-toolbox-viem": "^5.0.5",
+    "@types/node": "^22.8.5",
+    "hardhat": "^3.4.5",
+    "typescript": "~5.8.0",
+    "viem": "^2.47.6"
+  },
+  "private": true,
+  "allowScripts": {
+    "esbuild@0.28.1": true
+  }
+}
